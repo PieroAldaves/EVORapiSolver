@@ -2819,11 +2819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Service\\RapiSolver.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Service\\RapiSolver.Service.csproj",
       "projectName": "RapiSolver.Service",
-      "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Service\\RapiSolver.Service.csproj",
+      "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Service\\RapiSolver.Service.csproj",
       "packagesPath": "C:\\Users\\Piero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Service\\obj\\",
+      "outputPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2839,11 +2839,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Entity\\RapiSolver.Entity.csproj": {
-              "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Entity\\RapiSolver.Entity.csproj"
+            "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Entity\\RapiSolver.Entity.csproj": {
+              "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Entity\\RapiSolver.Entity.csproj"
             },
-            "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Repository\\RapiSolver.Repository.csproj": {
-              "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\Tarea de evo\\RapiSolverAPI\\RapiSolver.Repository\\RapiSolver.Repository.csproj"
+            "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Repository\\RapiSolver.Repository.csproj": {
+              "projectPath": "C:\\Users\\Piero\\Desktop\\OCTAVO CICLO\\Evolucion de Software\\RapiTeam\\RapiSolver\\RapiSolverAPI\\RapiSolver.Repository\\RapiSolver.Repository.csproj"
             }
           }
         }
